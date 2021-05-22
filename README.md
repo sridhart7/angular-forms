@@ -2,13 +2,6 @@
 
 This project explains about validations in Reactive and Template-driven forms in Angular. We will learn about the inbuilt as well as custom validations.
 
-# Article
-
-Read the articles at my blog
-- [Reactive Form Validation in Angular](https://ankitsharmablogs.com/reactive-form-validation-in-angular/)
-- [Template-Driven Form Validation In Angular](https://ankitsharmablogs.com/template-driven-form-validation-in-angular/)
-
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
